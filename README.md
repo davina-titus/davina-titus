@@ -77,33 +77,7 @@ always_down_for:
   <img alt="github-snake" src="https://raw.githubusercontent.com/davina-titus/davina-titus/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-> ⚙️ **To activate the snake:** In your `davina-titus` repo, create `.github/workflows/snake.yml` with this content:
-> ```yaml
-> name: Generate Snake
-> on:
->   schedule:
->     - cron: "0 0 * * *"
->   workflow_dispatch:
-> jobs:
->   generate:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk@v3
->         with:
->           github_user_name: davina-titus
->           outputs: |
->             dist/github-contribution-grid-snake.svg
->             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v3
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
-> Then go to **Actions → Generate Snake → Run workflow** once to generate it. It'll auto-update daily after that.
 
----
 
 ## 💬 Random Dev Quote
 
