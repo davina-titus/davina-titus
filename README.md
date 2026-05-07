@@ -45,20 +45,18 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+---
 
 <a href="https://github.com/davina-titus">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davina-titus&layout=compact&langs_count=8&card_width=320&theme=tokyonight&hide_border=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davina-titus&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
 <a href="https://github.com/davina-titus">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davina-titus&theme=tokyonight&hide_border=true" />
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davina-titus&theme=radical" />
 </a>
 
-<br/><br/>
+---
 
-[![Davina's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=davina-titus&theme=tokyo-night&hide_border=true)](https://github.com/davina-titus)
-
-</div>
+[![Davina's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=davina-titus&theme=redical&hide_border=true)](https://github.com/davina-titus)
 
 ---
 
