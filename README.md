@@ -15,6 +15,7 @@ GPT-4 · Azure AI · SQL · C++
 ## 🔗 Links
 Portfolio: davinatitus.com
 LinkedIn: linkedin.com/in/davina-titus
+![Top Langs](https://vercel.app)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
