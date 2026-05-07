@@ -1,38 +1,85 @@
-# Davina Titus ^ ^
+<div align="center">
 
-**IMPACT.** That's what I build — in code, in communities, and in the problems worth solving.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Davina+%F0%9F%91%8B;I+build+things+that+matter.;AI+%7C+Engineering+%7C+Impact.;Let's+solve+something+hard.)](https://git.io/typing-svg)
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=davina-titus&style=flat-square&color=FF6B9D&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+> *"IMPACT. That's what I build — in code, in communities, and in the problems worth solving."*
+
+---
+
+## 🧠 About Me
+
+- 🤖 **Generative AI Intern @ EY** — building real AI solutions in enterprise
+- 🔬 **Incoming Research Intern @ UIC LIT Lab** — diving deep into research
+- 🎓 **Sophomore @ UIC College of Engineering** — just getting started
+- 💡 I like hard problems, fast learning, and shipping things that matter
 
 ---
 
 ## 🛠 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure_AI-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Claude API](https://img.shields.io/badge/Claude_API-CC785C?style=flat&logo=anthropic&logoColor=white)
-![GPT-4](https://img.shields.io/badge/GPT--4-412991?style=flat&logo=openai&logoColor=white)
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Frameworks & Tools**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure_AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+**AI / GenAI**
+
+![Claude API](https://img.shields.io/badge/Claude_API-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![GPT-4](https://img.shields.io/badge/GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
+
+## 📊 GitHub Stats
+
+<div align="center">
 
 <a href="https://github.com/davina-titus">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davina-titus&layout=compact&langs_count=8&card_width=320&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davina-titus&layout=compact&langs_count=8&card_width=320&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/davina-titus">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davina-titus&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davina-titus&theme=tokyonight&hide_border=true" />
 </a>
 
+<br/><br/>
+
+[![Davina's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=davina-titus&theme=tokyo-night&hide_border=true)](https://github.com/davina-titus)
+
+</div>
+
 ---
 
-[![Davina's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=davina-titus&theme=redical&hide_border=true)](https://github.com/davina-titus)
+## 💬 Random Dev Quote
 
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
-## 🔗 Links
+## 🔗 Find Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-davinatitus.com-FF6B6B?style=flat&logo=googlechrome&logoColor=white)](https://davinatitus.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-davina--titus-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/davina-titus)
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-davinatitus.com-FF6B9D?style=for-the-badge&logo=googlechrome&logoColor=white)](https://davinatitus.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-davina--titus-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/davina-titus-855199254)
+[![GitHub](https://img.shields.io/badge/GitHub-davina--titus-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davina-titus)
+
+</div>
+
+---
+
+<div align="center">
+  <i>Open to collabs, research, and building things that actually matter. Slide into my LinkedIn. 👇</i>
+</div>
