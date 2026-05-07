@@ -12,6 +12,26 @@
 
 ---
 
+## 🙋🏽‍♀️ About Me
+
+```yaml
+name: Davina Titus
+location: Chicago, IL
+education: UIC College of Engineering, Sophomore
+currently_building: AI tools that solve real problems
+fun_facts:
+  - I was a Generative AI intern before most people knew what a prompt was
+  - I think the best code is the kind that helps people who can't help themselves
+  - Coffee + lo-fi + a hard problem = my perfect Saturday
+  - I've never met a hackathon I didn't want to win
+always_down_for:
+  - Research collabs
+  - Building something from 0 → 1
+  - Talking about AI ethics, equity, and impact
+```
+
+---
+
 ## 🛠 Tech Stack
 
 **Languages**
@@ -36,8 +56,6 @@
 
 ## 📊 GitHub Stats
 
----
-
 <a href="https://github.com/davina-titus">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davina-titus&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
@@ -48,6 +66,42 @@
 ---
 
 [![Davina's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=davina-titus&theme=redical&hide_border=true)](https://github.com/davina-titus)
+
+---
+
+## 🐍 My Contributions... Getting Eaten
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davina-titus/davina-titus/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davina-titus/davina-titus/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/davina-titus/davina-titus/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+> ⚙️ **To activate the snake:** In your `davina-titus` repo, create `.github/workflows/snake.yml` with this content:
+> ```yaml
+> name: Generate Snake
+> on:
+>   schedule:
+>     - cron: "0 0 * * *"
+>   workflow_dispatch:
+> jobs:
+>   generate:
+>     runs-on: ubuntu-latest
+>     steps:
+>       - uses: Platane/snk@v3
+>         with:
+>           github_user_name: davina-titus
+>           outputs: |
+>             dist/github-contribution-grid-snake.svg
+>             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+>       - uses: crazy-max/ghaction-github-pages@v3
+>         with:
+>           target_branch: output
+>           build_dir: dist
+>         env:
+>           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+> ```
+> Then go to **Actions → Generate Snake → Run workflow** once to generate it. It'll auto-update daily after that.
 
 ---
 
