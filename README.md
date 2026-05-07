@@ -29,23 +29,6 @@
 
 [![Davina's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=davina-titus&theme=redical&hide_border=true)](https://github.com/davina-titus)
 
----
-
-## 🏆 Hackathons & Projects
-
-**[Project Name]** — 1st place @ Hackathon Name
-> Brief description of what it does and why it matters.
-
-**[Project Name]** — Top 5 @ Competition Name
-> Brief description of what it does and why it matters.
-
----
-
-## 📌 Currently
-
-- 🤖 Generative AI Intern @ EY  
-- 🔬 Incoming Research Intern @ UIC LIT Lab  
-- 🎓 Sophomore @ UIC College of Engineering  
 
 ---
 
