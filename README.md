@@ -12,15 +12,6 @@
 
 ---
 
-## 🧠 About Me
-
-- 🤖 **Generative AI Intern @ EY** — building real AI solutions in enterprise
-- 🔬 **Incoming Research Intern @ UIC LIT Lab** — diving deep into research
-- 🎓 **Sophomore @ UIC College of Engineering** — just getting started
-- 💡 I like hard problems, fast learning, and shipping things that matter
-
----
-
 ## 🛠 Tech Stack
 
 **Languages**
