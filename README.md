@@ -12,26 +12,6 @@
 
 ---
 
-## 🙋🏽‍♀️ About Me
-
-```yaml
-name: Davina Titus
-location: Chicago, IL
-education: UIC College of Engineering, Sophomore
-currently_building: AI tools that solve real problems
-fun_facts:
-  - I was a Generative AI intern before most people knew what a prompt was
-  - I think the best code is the kind that helps people who can't help themselves
-  - Coffee + lo-fi + a hard problem = my perfect Saturday
-  - I've never met a hackathon I didn't want to win
-always_down_for:
-  - Research collabs
-  - Building something from 0 → 1
-  - Talking about AI ethics, equity, and impact
-```
-
----
-
 ## 🛠 Tech Stack
 
 **Languages**
