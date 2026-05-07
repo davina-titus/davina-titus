@@ -15,7 +15,17 @@ GPT-4 · Azure AI · SQL · C++
 ## 🔗 Links
 Portfolio: davinatitus.com
 LinkedIn: linkedin.com/in/davina-titus
-![Top Langs](https://vercel.app)
+
+<a href="https://github.com/davina-titus">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=davina-titus&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/davina-titus">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davina-titus&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davina-titus&layout=compact)](https://github.com/davina-titus)
+
+[![davina-titus's GitHub stats](https://github-readme-stats.vercel.app/api?username=davina-titus&show_icons=true&theme=radical)](https://github.com/davina-titus)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
