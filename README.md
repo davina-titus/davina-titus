@@ -1,25 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F0F1A,25:3B1C32,50:FF6B9D,75:8A2BE2,100:0F0F1A&text=Davina%20Titus&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20%7C%20Engineering%20%7C%20Human-Centered%20Tech&descAlignY=58&descSize=20" />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF6B9D&center=true&vCenter=true&width=750&lines=Building+systems+that+feel+intelligent.;CS+student+exploring+AI+%2B+HCI.;Researching+VR+learning+experiences.;Designing+with+precision.+Building+with+purpose.)](https://git.io/typing-svg)
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=davina-titus&style=for-the-badge&color=FF6B9D&label=PROFILE+VIEWS"/>
-
-</div>
-
----
-
-<div align="center">
-
-### ✨ AI • Full-Stack • Research • Human-Computer Interaction ✨
-
-</div>
-
-<div align="center">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=FF6B9D&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Davina+Titus.;CS+student+building+AI+%2B+HCI+projects.;I+turn+ideas+into+working+systems.;Let's+solve+something+hard.)](https://git.io/typing-svg)
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=davina-titus&style=flat-square&color=FF6B9D&label=PROFILE+VIEWS)
