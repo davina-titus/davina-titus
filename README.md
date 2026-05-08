@@ -1,5 +1,46 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F0F1A,20:2D1B69,45:FF6B9D,75:8A2BE2,100:0F0F1A&text=Davina%20Titus&fontSize=62&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=AI%20%7C%20Engineering%20%7C%20Human-Centered%20Tech&descAlignY=58&descSize=20" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF6B9D&center=true&vCenter=true&width=800&lines=Building+cool+things+with+AI.;CS+student+%2B+researcher.;Designing+systems+that+feel+human.;VR+%7C+HCI+%7C+Full-Stack+Engineering.;Probably+debugging+something+right+now..." />
+
+<br><br>
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2k1ZXA5dG50M3RrOHNqYnlhNW5lMzl1cXR4cnR4dXJ2d2ZqZXVwZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l378c04F2fjeZ7vH2/giphy.gif" width="220"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=davina-titus&style=for-the-badge&color=FF6B9D&label=PROFILE+VIEWS"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/216656971-9a208b75-32d2-44e8-a10f-0f8d1cb1e5d1.gif" width="120"/>
+
+### ✨ Building things that actually matter ✨
+
+</div>
+
+---
+
+<img align="right" alt="Coding Girl" width="320" src="https://user-images.githubusercontent.com/74038190/213760697-1dc03683-ba49-44f2-9853-04c1c6a54049.gif">
+
+
+class DavinaTitus:
+    def __init__(self):
+        self.role = "CS Student + Researcher"
+        self.focus = ["AI", "HCI", "VR", "Full-Stack"]
+        self.currently_building = "systems people actually use"
+        self.coffee_level = "unreasonably high"
+
+    def say_hi(self):
+        print("Let's build something cool.")
+
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=FF6B9D&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Davina+Titus.;CS+student+building+AI+%2B+HCI+projects.;I+turn+ideas+into+working+systems.;Let's+solve+something+hard.)](https://git.io/typing-svg)
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=davina-titus&style=flat-square&color=FF6B9D&label=PROFILE+VIEWS)
