@@ -57,10 +57,6 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/davina-titus/davina-titus/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-## 🎧 Currently Vibing To
-
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/YOURUSER)
-
 ## 🔗 Find Me
 
 <div align="center">
