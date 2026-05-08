@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B9D,100:8A2BE2&height=220&section=header&text=Davina%20Titus&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=FF6B9D&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Davina+Titus.;CS+student+building+AI+%2B+HCI+projects.;I+turn+ideas+into+working+systems.;Let's+solve+something+hard.)](https://git.io/typing-svg)
