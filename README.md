@@ -6,7 +6,7 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/216655810-d0d73389-0bb6-4ac4-8b6c-840e6f5f4f7d.gif" width="100%">
 
 > *"IMPACT. That's what I build - in code, in communities, and in the problems worth solving."*
 
