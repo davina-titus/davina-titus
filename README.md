@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=FF6B9D&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Davina+Titus.;CS+student+building+AI+%2B+HCI+projects.;I+turn+ideas+into+working+systems.;Let's+solve+something+hard.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=FF6B9D&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Davina+Titus.;CS+student+building+projects.;I+turn+ideas+into+working+systems.;Let's+solve+something+hard.)](https://git.io/typing-svg)
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=davina-titus&style=flat-square&color=FF6B9D&label=PROFILE+VIEWS)
 
