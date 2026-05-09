@@ -70,7 +70,7 @@
 ---
 
 <div align="center">
-  <i>Open to collabs, research, and building things that actually matter. Slide into my LinkedIn. </i>
+  <i>Open to collabs, research, and building things that actually matter. Slide into my LinkedIn:) </i>
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
