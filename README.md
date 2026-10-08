@@ -43,10 +43,6 @@
 
 ---
 
-[![Davina's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=davina-titus&theme=redical&hide_border=true)](https://github.com/davina-titus)
-
----
-
 ## My Contributions.. Getting Eaten oop:<(
 
 <picture>
