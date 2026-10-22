@@ -3,12 +3,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=FF6B9D&center=true&vCenter=true&width=700&lines=Hiiii%2C+I'm+Davina;Let's+solve+something+hard.)](https://git.io/typing-svg)
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=davina-titus&style=flat-square&color=FF6B9D&label=PROFILE+VIEWS)
+</div>
+
+---
+> *"IMPACT.That's what I build - in code, in communities, and in the problems worth solving."*
+---
+
+## Tech Stack
 
 </div>
----
-"IMPACT.That's what I build - in code, in communities, and in the problems worth solving."*
----
-## Tech Stack
 
 **Languages**
 
