@@ -30,7 +30,6 @@
 ![Claude API](https://img.shields.io/badge/Claude_API-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
 ![GPT-4](https://img.shields.io/badge/GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)
 
----
 
 ## 📊 GitHub Stats
 
@@ -41,7 +40,6 @@
   <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davina-titus&theme=radical" />
 </a>
 
----
 
 ## My Contributions.. Getting Eaten oop:<(
 
