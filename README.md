@@ -41,7 +41,7 @@
 </a>
 
 
-## My Contributions.. Getting Eaten oop:<(
+## My Contributions.. Getting Eaten oop:(
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davina-titus/davina-titus/output/github-contribution-grid-snake-dark.svg" />
