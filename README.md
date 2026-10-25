@@ -86,7 +86,13 @@ AI simulator that generates three career timelines from your background and goal
   <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davina-titus&theme=radical" />
 </a>
 
+## 📌 What I'm up to
 
+- 🎓 CS @ University of Illinois Chicago · Expected May 2028
+- 📐 Math TA for a 100+ student calculus course
+- 🌱 Founding Ambassador @ E.M.B.E.R.
+- 📈 Exploring quant dev and quant trading
+  
 ## My Contributions.. Getting Eaten oop:(
 
 <picture>
