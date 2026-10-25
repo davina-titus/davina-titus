@@ -30,6 +30,27 @@
 ![Claude API](https://img.shields.io/badge/Claude_API-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
 ![GPT-4](https://img.shields.io/badge/GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)
 
+## 🚀 Featured projects
+
+**[📈 Limit Order Book](https://github.com/davina-titus/orderbook)** · [Live demo](https://courageous-frangollo-012c00.netlify.app) · [Write-up](https://davinatitus.com/orderbook.html)
+Exchange-style matching engine with price-time priority, limit/market/IOC orders and O(1) cancels. **~3.3M orders/sec, ~170 ns median latency** over 1M simulated orders. 17 unit tests under AddressSanitizer in CI.
+`C++17` `CMake` `GitHub Actions`
+
+**[🎯 Avellaneda-Stoikov Market Maker](https://github.com/davina-titus/avellaneda-stoikov)** · [Live demo](https://stellar-faun-e1c90a.netlify.app) · [Write-up](https://davinatitus.com/market-maker.html)
+Inventory-aware market making from the closed-form HJB solution, tested against naive quoting across Monte Carlo runs. **Roughly halves drawdown** on default settings, with the edge growing in volatile markets.
+`Python` `NumPy` `Dash`
+
+**[🏙 ChiMetrics](https://github.com/davina-titus/ChiMetrics)** · [Live site](https://chi-metrics.vercel.app)
+Live dashboard of Chicago's open data: crime trends, CTA ridership, red-light and speed cameras, and 311 requests. Started as a C++ parser I wrote for the red-light camera dataset.
+`React` `Vite` `Recharts` `Socrata API`
+
+**[🧴 FaceCart](https://github.com/davina-titus/facecartApp)** · SparkHacks 2026
+Led a team of four to build a full-stack AI skincare app in 24 hours, with a conflict-detection engine scoring **40+ products across 200+ ingredient combinations**.
+`TypeScript` `Node.js` `Express` `GPT-4`
+
+**[🌌 ParallelYou](https://github.com/davina-titus/parallel-you)** · [Demo video](https://youtu.be/glDdiWyR_kc)
+AI simulator that generates three career timelines from your background and goals, with 20-year salary projections and head-to-head comparison.
+`React` `Claude API`
 
 ## 📊 GitHub Stats
 
