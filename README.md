@@ -13,7 +13,7 @@
 ## 🛠 Tech stack
 
 **Languages**
-
+ 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -87,7 +87,7 @@ AI simulator that generates three career timelines from your background and goal
   <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davina-titus&theme=radical" />
 </a>
   
-## My Contributions.. Getting Eaten oop:(
+## My Contributions.. Getting Eaten oop:<(
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davina-titus/davina-titus/output/github-contribution-grid-snake-dark.svg" />
