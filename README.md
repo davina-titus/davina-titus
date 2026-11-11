@@ -56,7 +56,7 @@
 ![Llama](https://img.shields.io/badge/Llama-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 
 
-## 🚀 Featured projects
+## Featured projects
 
 **[📈 Limit Order Book](https://github.com/davina-titus/orderbook)** · [Live demo](https://courageous-frangollo-012c00.netlify.app) · [Write-up](https://davinatitus.com/orderbook.html)
 Exchange-style matching engine with price-time priority, limit/market/IOC orders and O(1) cancels. **~3.3M orders/sec, ~170 ns median latency** over 1M simulated orders. 17 unit tests under AddressSanitizer in CI.
